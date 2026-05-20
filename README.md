@@ -58,3 +58,10 @@ streamlit run app.py
 ## Research Focus
 
 This prototype explores scalable Proof-of-Physical-Work validation mechanisms for decentralized physical-AI workloads.
+
+## Open Research Tasks
+
+- Distributed validator consensus
+- Telemetry anomaly detection
+- Reputation-weighted scoring
+- Real-time mission verification
